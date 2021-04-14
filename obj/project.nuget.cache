@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjqGu8wwES7OsZWnB88JFKbjEuWRPlA/lmDIH5s3vJkW6jm1JjG5k1UnbF5r1GJlMhZBxxYor2aVue2kTWavWA==",
+  "success": true,
+  "projectFilePath": "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomasciernik/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/tomasciernik/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tomasciernik/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/tomasciernik/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/tomasciernik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/tomasciernik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
