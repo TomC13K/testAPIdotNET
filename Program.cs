@@ -20,7 +20,7 @@ namespace Catalog
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    webBuilder.UseStartup<Startup>();    //runs Startup class   (startup.cs)
                 });
     }
 }
