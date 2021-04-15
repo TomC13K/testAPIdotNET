@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/Catalog.csproj": {}
+    "/Users/tomasciernik/2021-code/dotNETtestAPI/Catalog/Catalog.csproj": {}
   },
   "projects": {
-    "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/Catalog.csproj": {
+    "/Users/tomasciernik/2021-code/dotNETtestAPI/Catalog/Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/Catalog.csproj",
+        "projectUniqueName": "/Users/tomasciernik/2021-code/dotNETtestAPI/Catalog/Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/Catalog.csproj",
+        "projectPath": "/Users/tomasciernik/2021-code/dotNETtestAPI/Catalog/Catalog.csproj",
         "packagesPath": "/Users/tomasciernik/.nuget/packages/",
-        "outputPath": "/Users/tomasciernik/Desktop/2020-Code/dotNETtestAPI/Catalog/obj/",
+        "outputPath": "/Users/tomasciernik/2021-code/dotNETtestAPI/Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tomasciernik/.nuget/NuGet/NuGet.Config"
